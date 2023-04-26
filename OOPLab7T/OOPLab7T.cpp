@@ -6,6 +6,28 @@
 
 int main()
 {
+
+    //HELLO man skd
+    // 
+    //HELLO man skd
+    // 
+
+
+
+    //HELLO man skd
+    // 
+    // 
+    //HELLO man skd
+
+    //HELLO man skd
+    // v
+    // 
+    // 
+    //HELLO man skd
+    //HELLO man skd
+
+    //HELLO man skd
+    //HELLO man skd
     setlocale(LC_CTYPE, "ukr");
    
 }
